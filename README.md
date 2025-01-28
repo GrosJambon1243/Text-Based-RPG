@@ -1,20 +1,20 @@
-# Text-Based RPG
+# Text-Based RPG 
+
 
 <h3>What I've done in this project</h3>
 <ol>
-  <li>Everything was done using C++ classes</li>
-  <li>Creating and using multiple Input Mapping Context</li>
-  <li>Creating and using data table</li>
-  <li>Implementing interfaces in multiple classes</li>
-  <li>Creating Vfx using the niagara system</li>
-  <li>Adding post-process effects</li>
-  <li>Creating an environment with cube grid</li>
+  <li>Everything was done using C++</li>
+  <li>Creating and using multiple data structures such as vectors, stacks, queues and binary trees</li>
+  <li>Creating a save system to store the player progress</li>
+  <li>Implementing a automatic combat system</li>
+  <li>Producing a complete UI with multiple menus</li>
+
 </ol>
 
 <h3>What I've learned during this project</h3>
 <ol>
-  <li>While using only C++ classes to do this project, I've learned a lot about programming, but for the purpose of creating a game, using a mixed of blueprint and C++ classes is way more efficient</li>
-  <li>Making multiple build of your game during developement to ensure that everything is working properly once build</li>
-  <li>Ensuring the everything is setup properly before starting the developement process</li>
+  <li>While working within a team I've learned how crucial it is to communicate often and clearly with your teammates</li>
+  <li>I've learned that time management and task distribution is even more important when working with others</li>
+  <li></li>
  
 </ol>
