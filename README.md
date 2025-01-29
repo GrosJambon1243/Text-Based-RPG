@@ -1,38 +1,40 @@
-# Text-Based RPG 
+# 🛡️ Text-Based RPG  
 
-<h3>Main menu</h3>
+---
 
-![image](https://github.com/user-attachments/assets/bbdea9e9-84b0-401d-bd21-d04441aa823a)
+## 📸 Screenshots  
 
-<h3>Hall management menu</h3>
+### **Main Menu**  
+![image](https://github.com/user-attachments/assets/bbdea9e9-84b0-401d-bd21-d04441aa823a)  
 
-![image](https://github.com/user-attachments/assets/387cb547-f51a-4972-ba01-7d0d24676a91)
+### **Hall Management Menu**  
+![image](https://github.com/user-attachments/assets/387cb547-f51a-4972-ba01-7d0d24676a91)  
 
-<h3>Combat exemple</h3>
+### **Combat Example**  
+![image](https://github.com/user-attachments/assets/fc31defa-5b34-46d9-b09a-daeeb8ac48df)  
 
-![image](https://github.com/user-attachments/assets/fc31defa-5b34-46d9-b09a-daeeb8ac48df)
+### **Option Example**  
+![image](https://github.com/user-attachments/assets/88759add-acdc-4b06-8a97-2bdb5a6e9135)  
 
-<h3>Option exemple</h3>
+---
 
-![image](https://github.com/user-attachments/assets/88759add-acdc-4b06-8a97-2bdb5a6e9135)
+## 🔧 **Technologies Used**  
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)  
+![Rider](https://img.shields.io/badge/IDE-Rider-000000?style=for-the-badge&logo=rider)  
 
+---
 
+## 🛠 **What I've Done in This Project**  
+- Everything was done using **C++** in the **Rider IDE**  
+- Created and used multiple data structures such as **vectors**, **stacks**, **queues**, and **binary trees**  
+- Created a **local save system** to store the player progress  
+- Implemented an **automatic combat system**  
+- Produced a complete **UI** with multiple menus  
+- Coordinated with my team to complete different tasks  
 
-<h3>What I've done in this project</h3>
-<ol>
-  <li>Everything was done using C++ in the Rider IDE</li>
-  <li>Created and used multiple data structures such as vectors, stacks, queues and binary trees</li>
-  <li>Created a local save system to store the player progress</li>
-  <li>Implemented an automatic combat system</li>
-  <li>Produced a complete UI with multiple menus</li>
-  <li>Coordinating with my team to complete the different tasks</li>
+---
 
-</ol>
+## 🎓 **What I've Learned During This Project**  
+- While working within a team, I learned how crucial it is to communicate often and clearly with teammates  
+- I learned that **time management** and **task distribution** are even more important when working with others  
 
-<h3>What I've learned during this project</h3>
-<ol>
-  <li>While working within a team I learned how crucial it is to communicate often and clearly with your teammates</li>
-  <li>I learned that time management and task distribution are even more important when working with others</li>
-  
- 
-</ol>
