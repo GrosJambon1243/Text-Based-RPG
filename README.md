@@ -21,18 +21,18 @@
 <h3>What I've done in this project</h3>
 <ol>
   <li>Everything was done using C++ in the Rider IDE</li>
-  <li>Creating and using multiple data structures such as vectors, stacks, queues and binary trees</li>
-  <li>Creating a local save system to store the player progress</li>
-  <li>Implementing a automatic combat system</li>
-  <li>Producing a complete UI with multiple menus</li>
-  <li>Coordinating with my team to complete the different task</li>
+  <li>Created and used multiple data structures such as vectors, stacks, queues and binary trees</li>
+  <li>Created a local save system to store the player progress</li>
+  <li>Implemented an automatic combat system</li>
+  <li>Produced a complete UI with multiple menus</li>
+  <li>Coordinating with my team to complete the different tasks</li>
 
 </ol>
 
 <h3>What I've learned during this project</h3>
 <ol>
-  <li>While working within a team I've learned how crucial it is to communicate often and clearly with your teammates</li>
-  <li>I've learned that time management and task distribution is even more important when working with others</li>
+  <li>While working within a team I learned how crucial it is to communicate often and clearly with your teammates</li>
+  <li>I learned that time management and task distribution are even more important when working with others</li>
   
  
 </ol>
