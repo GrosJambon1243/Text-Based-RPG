@@ -5,7 +5,7 @@
 <ol>
   <li>Everything was done using C++</li>
   <li>Creating and using multiple data structures such as vectors, stacks, queues and binary trees</li>
-  <li>Creating a save system to store the player progress</li>
+  <li>Creating a local save system to store the player progress</li>
   <li>Implementing a automatic combat system</li>
   <li>Producing a complete UI with multiple menus</li>
 
