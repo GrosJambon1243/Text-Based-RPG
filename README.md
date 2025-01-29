@@ -1,5 +1,10 @@
 # Text-Based RPG 
 
+<h3>Main menu</h3>
+
+![image](https://github.com/user-attachments/assets/bbdea9e9-84b0-401d-bd21-d04441aa823a)
+
+
 
 <h3>What I've done in this project</h3>
 <ol>
