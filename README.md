@@ -33,6 +33,6 @@
 <ol>
   <li>While working within a team I've learned how crucial it is to communicate often and clearly with your teammates</li>
   <li>I've learned that time management and task distribution is even more important when working with others</li>
-  <li></li>
+  
  
 </ol>
